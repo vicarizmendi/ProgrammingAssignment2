@@ -1,3 +1,9 @@
+#### Victoria Arizmendi comments
+
+This is the README of the Assignment
+I leave it as it is to understand this is an assignment for the R
+programming Coursera course
+
 ### Introduction
 
 This second programming assignment will require you to write an R
